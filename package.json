@@ -1,6 +1,6 @@
 {
   "name": "hexo-filter-author-from-git",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Read git log and add the properties `author` and `contributors` for each posts",
   "main": "index.js",
   "scripts": {
@@ -24,8 +24,7 @@
     "url": "https://github.com/xcatliu/hexo-filter-author-from-git/issues"
   },
   "homepage": "https://github.com/xcatliu/hexo-filter-author-from-git#readme",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "eslint": "^2.13.1",
     "eslint-config-airbnb-base": "^3.0.1",
