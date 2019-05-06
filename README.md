@@ -1,5 +1,8 @@
 # hexo-filter-author-from-git
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xcatliu/hexo-filter-author-from-git.svg)](https://greenkeeper.io/)
+
+
 Read git log and add the properties `author` and `contributors` for each posts.
 
 A live site using this plugin: http://js-index.com/
